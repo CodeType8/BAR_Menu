@@ -315,6 +315,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
   <p>Powered by <b>Eric Joh</b></p>
+  <a href="data/main">Admin Page</a>
 </footer>
 
 <?php
