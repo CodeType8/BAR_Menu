@@ -1,5 +1,5 @@
 # BAR_Menu
-http://menu.codetype.info/<br>
+http://www.codetypeweb.com/menu<br>
 CodeType personal Home Bar menu<br>
 Mobile Friendly <br>
 
