@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "codetype";
-$password = "jj2640";
+$password = "123456";
 $table = "bar";
 
 // 초기화
